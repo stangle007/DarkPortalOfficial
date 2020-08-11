@@ -1,0 +1,29 @@
+{
+  "group": "dark_portal_tools",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "3 5"
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:diamond"
+    },
+    "1": {
+      "item": "dark_portal_tools:netherite_armor_boots"
+    },
+    "2": {
+      "item": "minecraft:diamond"
+    },
+    "3": {
+      "item": "minecraft:diamond"
+    },
+    "5": {
+      "item": "minecraft:diamond"
+    }
+  },
+  "result": {
+    "item": "dark_portal_tools:cinbark_armor_boots",
+    "count": 1
+  }
+}

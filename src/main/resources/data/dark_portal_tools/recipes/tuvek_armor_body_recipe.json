@@ -1,0 +1,30 @@
+{
+  "group": "dark_portal_tools",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " 1 ",
+    "345",
+    " 7 "
+  ],
+  "key": {
+    "1": {
+      "item": "minecraft:diamond"
+    },
+    "3": {
+      "item": "minecraft:diamond"
+    },
+    "4": {
+      "item": "dark_portal_tools:netherite_armor_chestplate"
+    },
+    "5": {
+      "item": "minecraft:diamond"
+    },
+    "7": {
+      "item": "minecraft:diamond"
+    }
+  },
+  "result": {
+    "item": "dark_portal_tools:cinbark_armor_chestplate",
+    "count": 1
+  }
+}

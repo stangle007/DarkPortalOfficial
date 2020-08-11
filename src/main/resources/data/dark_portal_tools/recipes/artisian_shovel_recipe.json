@@ -1,0 +1,26 @@
+{
+  "group": "dark_portal_tools",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "01",
+    "23"
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:diamond"
+    },
+    "1": {
+      "item": "minecraft:diamond"
+    },
+    "2": {
+      "item": "dark_portal_tools:netherite_shovel"
+    },
+    "3": {
+      "item": "minecraft:diamond"
+    }
+  },
+  "result": {
+    "item": "dark_portal_tools:artisian_shovel",
+    "count": 1
+  }
+}

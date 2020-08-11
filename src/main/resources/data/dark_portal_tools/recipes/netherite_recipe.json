@@ -1,0 +1,34 @@
+{
+  "group": "dark_portal_tools",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "minecraft:gold_ingot"
+    },
+    {
+      "item": "minecraft:gold_ingot"
+    },
+    {
+      "item": "minecraft:gold_ingot"
+    },
+    {
+      "item": "minecraft:gold_ingot"
+    },
+    {
+      "item": "dark_portal_tools:netherite_scrap"
+    },
+    {
+      "item": "dark_portal_tools:netherite_scrap"
+    },
+    {
+      "item": "dark_portal_tools:netherite_scrap"
+    },
+    {
+      "item": "dark_portal_tools:netherite_scrap"
+    }
+  ],
+  "result": {
+    "item": "dark_portal_tools:netherite_ingot",
+    "count": 4
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "group": "dark_portal_tools",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "dark_portal_tools:netherite_ingot"
+    },
+    {
+      "item": "minecraft:diamond_pickaxe"
+    }
+  ],
+  "result": {
+    "item": "dark_portal_tools:netherite_pickaxe",
+    "count": 1
+  }
+}

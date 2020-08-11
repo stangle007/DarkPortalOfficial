@@ -1,0 +1,6 @@
+{
+  "parent": "item/handheld",
+  "textures": {
+    "layer0": "dark_portal_tools:items/artisans_pickaxe"
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "dark_portal_tools:blocks/netherite_block",
+    "particle": "dark_portal_tools:blocks/netherite_block"
+  }
+}

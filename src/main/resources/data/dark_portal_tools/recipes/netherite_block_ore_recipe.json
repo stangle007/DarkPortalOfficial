@@ -1,0 +1,13 @@
+{
+  "group": "dark_portal_tools",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "dark_portal_tools:netherite_ore_block"
+    }
+  ],
+  "result": {
+    "item": "dark_portal_tools:netherite_ingot",
+    "count": 9
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "dark_portal_tools:items/cinbark_helmet"
+  }
+}

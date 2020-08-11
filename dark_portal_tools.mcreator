@@ -1,0 +1,652 @@
+{
+  "id_map": {},
+  "mod_elements": [
+    {
+      "name": "TuvekArmor",
+      "type": "armor",
+      "sortid": 1,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "tuvek_armor",
+      "metadata": {
+        "eh": true,
+        "el": true,
+        "eb": true,
+        "ec": true
+      }
+    },
+    {
+      "name": "TuvekArmorHelmetRecipe",
+      "type": "recipe",
+      "sortid": 2,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "tuvek_armor_helmet_recipe"
+    },
+    {
+      "name": "TuvekArmorBodyRecipe",
+      "type": "recipe",
+      "sortid": 3,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "tuvek_armor_body_recipe"
+    },
+    {
+      "name": "TuvekArmorLeggingsRecipe",
+      "type": "recipe",
+      "sortid": 4,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "tuvek_armor_leggings_recipe"
+    },
+    {
+      "name": "TuvekArmorBootsRecipe",
+      "type": "recipe",
+      "sortid": 5,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "tuvek_armor_boots_recipe"
+    },
+    {
+      "name": "CinbarkArmor",
+      "type": "armor",
+      "sortid": 6,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "cinbark_armor",
+      "metadata": {
+        "eh": true,
+        "el": true,
+        "eb": true,
+        "ec": true
+      }
+    },
+    {
+      "name": "CinbarkArmorHelmetRecipe",
+      "type": "recipe",
+      "sortid": 7,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "cinbark_armor_helmet_recipe"
+    },
+    {
+      "name": "CinbarkArmorBodyRecipe",
+      "type": "recipe",
+      "sortid": 8,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "cinbark_armor_body_recipe"
+    },
+    {
+      "name": "CinbarkArmorLeggingsRecipe",
+      "type": "recipe",
+      "sortid": 9,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "cinbark_armor_leggings_recipe"
+    },
+    {
+      "name": "CinbarkArmorBootsRecipe",
+      "type": "recipe",
+      "sortid": 10,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "cinbark_armor_boots_recipe"
+    },
+    {
+      "name": "ArtisianPickaxe",
+      "type": "tool",
+      "sortid": 11,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "artisian_pickaxe"
+    },
+    {
+      "name": "ArtisianAxe",
+      "type": "tool",
+      "sortid": 12,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "artisian_axe"
+    },
+    {
+      "name": "ArtisianSword",
+      "type": "tool",
+      "sortid": 13,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "artisian_sword"
+    },
+    {
+      "name": "ArtisianShovel",
+      "type": "tool",
+      "sortid": 14,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "artisian_shovel"
+    },
+    {
+      "name": "ArtisianHoe",
+      "type": "tool",
+      "sortid": 15,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "artisian_hoe"
+    },
+    {
+      "name": "ArtisianPickaxeRecipe",
+      "type": "recipe",
+      "sortid": 16,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "artisian_pickaxe_recipe"
+    },
+    {
+      "name": "ArtisianAxeRecipe",
+      "type": "recipe",
+      "sortid": 17,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "artisian_axe_recipe"
+    },
+    {
+      "name": "ArtisianSwordRecipe",
+      "type": "recipe",
+      "sortid": 18,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "artisian_sword_recipe"
+    },
+    {
+      "name": "ArtisianShovelRecipe",
+      "type": "recipe",
+      "sortid": 19,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "artisian_shovel_recipe"
+    },
+    {
+      "name": "ArtisianHoeRecipe",
+      "type": "recipe",
+      "sortid": 20,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "artisian_hoe_recipe"
+    },
+    {
+      "name": "NetheriteIngot",
+      "type": "item",
+      "sortid": 21,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "netherite_ingot"
+    },
+    {
+      "name": "NetheriteOre",
+      "type": "block",
+      "sortid": 22,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "netherite_ore"
+    },
+    {
+      "name": "NetheriteOreBlock",
+      "type": "block",
+      "sortid": 23,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "netherite_ore_block"
+    },
+    {
+      "name": "NetheriteOreBlockRecipe",
+      "type": "recipe",
+      "sortid": 24,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "netherite_ore_block_recipe"
+    },
+    {
+      "name": "NetheriteBlockOreRecipe",
+      "type": "recipe",
+      "sortid": 25,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "netherite_block_ore_recipe"
+    },
+    {
+      "name": "NetheriteOreSmelting",
+      "type": "recipe",
+      "sortid": 26,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "netherite_ore_smelting"
+    },
+    {
+      "name": "NetheriteScrap",
+      "type": "item",
+      "sortid": 27,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "netherite_scrap"
+    },
+    {
+      "name": "NetheriteRecipe",
+      "type": "recipe",
+      "sortid": 28,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "netherite_recipe"
+    },
+    {
+      "name": "NetheriteArmor",
+      "type": "armor",
+      "sortid": 29,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "netherite_armor",
+      "metadata": {
+        "eh": true,
+        "el": true,
+        "eb": true,
+        "ec": true
+      }
+    },
+    {
+      "name": "NetheriteArmorHelmetRecipe",
+      "type": "recipe",
+      "sortid": 30,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "netherite_armor_helmet_recipe"
+    },
+    {
+      "name": "NetheriteArmorBodyRecipe",
+      "type": "recipe",
+      "sortid": 31,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "netherite_armor_body_recipe"
+    },
+    {
+      "name": "NetheriteArmorLeggingsRecipe",
+      "type": "recipe",
+      "sortid": 32,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "netherite_armor_leggings_recipe"
+    },
+    {
+      "name": "NetheriteArmorBootsRecipe",
+      "type": "recipe",
+      "sortid": 33,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "netherite_armor_boots_recipe"
+    },
+    {
+      "name": "NetheritePickaxe",
+      "type": "tool",
+      "sortid": 44,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "netherite_pickaxe"
+    },
+    {
+      "name": "NetheriteAxe",
+      "type": "tool",
+      "sortid": 45,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "netherite_axe"
+    },
+    {
+      "name": "NetheriteSword",
+      "type": "tool",
+      "sortid": 46,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "netherite_sword"
+    },
+    {
+      "name": "NetheriteShovel",
+      "type": "tool",
+      "sortid": 47,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "netherite_shovel"
+    },
+    {
+      "name": "NetheriteHoe",
+      "type": "tool",
+      "sortid": 48,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "netherite_hoe"
+    },
+    {
+      "name": "NetheritePickaxeRecipe",
+      "type": "recipe",
+      "sortid": 49,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "netherite_pickaxe_recipe"
+    },
+    {
+      "name": "NetheriteAxeRecipe",
+      "type": "recipe",
+      "sortid": 50,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "netherite_axe_recipe"
+    },
+    {
+      "name": "NetheriteSwordRecipe",
+      "type": "recipe",
+      "sortid": 51,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "netherite_sword_recipe"
+    },
+    {
+      "name": "NetheriteShovelRecipe",
+      "type": "recipe",
+      "sortid": 52,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "netherite_shovel_recipe"
+    },
+    {
+      "name": "NetheriteHoeRecipe",
+      "type": "recipe",
+      "sortid": 53,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "netherite_hoe_recipe"
+    },
+    {
+      "name": "NetherGoldOre",
+      "type": "block",
+      "sortid": 54,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "nether_gold_ore"
+    },
+    {
+      "name": "ZombieBrute",
+      "type": "mob",
+      "sortid": 55,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "zombie_brute"
+    },
+    {
+      "name": "Shopkeeper",
+      "type": "mob",
+      "sortid": 56,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "shopkeeper"
+    },
+    {
+      "name": "CustomShopkeeperShop",
+      "type": "gui",
+      "sortid": 57,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "custom_shopkeeper_shop"
+    },
+    {
+      "name": "CheckForEmeralds",
+      "type": "procedure",
+      "sortid": 58,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "check_for_emeralds",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          },
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "SkeletonRanger",
+      "type": "mob",
+      "sortid": 59,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "skeleton_ranger"
+    },
+    {
+      "name": "OwlShopkeeper2",
+      "type": "gui",
+      "sortid": 60,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "owl_shopkeeper_2"
+    },
+    {
+      "name": "GolemTrade2ArtisiansPickaxe",
+      "type": "procedure",
+      "sortid": 61,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "golem_trade_2_artisians_pickaxe",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          },
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "GolemNext1",
+      "type": "procedure",
+      "sortid": 62,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "golem_next_1",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          },
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "GolemBack2",
+      "type": "procedure",
+      "sortid": 63,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "golem_back_2",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          },
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    }
+  ],
+  "variable_elements": [],
+  "sound_elements": [],
+  "language_map": {
+    "en_us": {
+      "item.dark_portal_tools.tuvek_armor_helmet": "Tuvek Helmet",
+      "item.dark_portal_tools.tuvek_armor_chestplate": "Tuvek Chestplate",
+      "item.dark_portal_tools.tuvek_armor_boots": "Tuvek Boots",
+      "block.dark_portal_tools.nether_gold_ore": "Nether Gold Ore",
+      "item.dark_portal_tools.cinbark_armor_chestplate": "Cinbark Chestplate",
+      "item.dark_portal_tools.shopkeeper": "Shopkeeper Spawn Egg",
+      "item.dark_portal_tools.cinbark_armor_boots": "Cinbark Boots",
+      "item.dark_portal_tools.zombie_brute": "Zombie Brute Spawn Egg",
+      "entity.dark_portal_tools.shopkeeper": "Shopkeeper",
+      "item.dark_portal_tools.tuvek_armor_leggings": "Tuvek Leggings",
+      "item.dark_portal_tools.netherite_armor_helmet": "Netherite Helmet",
+      "item.dark_portal_tools.artisian_shovel": "Artisian Shovel",
+      "item.dark_portal_tools.netherite_pickaxe": "Netherite Pickaxe",
+      "item.dark_portal_tools.artisian_hoe": "Artisian Hoe",
+      "item.dark_portal_tools.cinbark_armor_leggings": "Cinbark Leggings",
+      "item.dark_portal_tools.netherite_shovel": "Netherite Shovel",
+      "item.dark_portal_tools.netherite_armor_leggings": "Netherite Leggings",
+      "item.dark_portal_tools.cinbark_armor_helmet": "Cinbark Helmet",
+      "item.dark_portal_tools.artisian_pickaxe": "Artisian Pickaxe",
+      "block.dark_portal_tools.netherite_ore": "Ancient Debris",
+      "item.dark_portal_tools.netherite_axe": "Netherite Axe",
+      "item.dark_portal_tools.netherite_armor_boots": "Netherite Boots",
+      "item.dark_portal_tools.artisian_sword": "Artisian Sword",
+      "item.dark_portal_tools.netherite_ingot": "Netherite",
+      "item.dark_portal_tools.artisian_axe": "Artisian Axe",
+      "block.dark_portal_tools.netherite_ore_block": "Block of Netherite",
+      "item.dark_portal_tools.netherite_scrap": "Netherite Scrap",
+      "item.dark_portal_tools.netherite_armor_chestplate": "Netherite Chestplate",
+      "item.dark_portal_tools.netherite_sword": "Netherite Sword",
+      "item.dark_portal_tools.skeleton_ranger": "Skeleton Ranger Spawn Egg",
+      "entity.dark_portal_tools.zombie_brute": "Zombie Brute",
+      "entity.dark_portal_tools.skeleton_ranger": "Skeleton Ranger",
+      "item.dark_portal_tools.netherite_hoe": "Netherite Hoe"
+    }
+  },
+  "workspaceSettings": {
+    "modid": "dark_portal_tools",
+    "modName": "Dark Portal Tools",
+    "version": "1.0.0",
+    "author": "ShishKebab, MCreator",
+    "websiteURL": "https://mcreator.net",
+    "disableForgeVersionCheck": true,
+    "serverSideOnly": false,
+    "requiredMods": [],
+    "dependencies": [],
+    "dependants": [],
+    "mcreatorDependencies": [],
+    "currentGenerator": "forge-1.15.2",
+    "modElementsPackage": "net.mcreator.darkportaltools",
+    "lockBaseModFiles": false
+  },
+  "mcreatorVersion": 202000432115
+}

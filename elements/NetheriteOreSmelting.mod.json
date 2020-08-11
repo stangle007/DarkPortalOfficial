@@ -1,0 +1,20 @@
+{
+  "_fv": 10,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Smelting",
+    "xpReward": 2.0999999999999996,
+    "cookingTime": 200,
+    "recipeRetstackSize": 1,
+    "group": "",
+    "recipeShapeless": false,
+    "smeltingInputStack": {
+      "value": "CUSTOM:NetheriteOre"
+    },
+    "smeltingReturnStack": {
+      "value": "CUSTOM:NetheriteScrap"
+    },
+    "name": "netherite_ore_smelting",
+    "namespace": "mod"
+  }
+}

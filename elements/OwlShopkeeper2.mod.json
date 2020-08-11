@@ -1,0 +1,151 @@
+{
+  "_fv": 10,
+  "_type": "gui",
+  "definition": {
+    "type": 1,
+    "width": 410,
+    "height": 362,
+    "renderBgLayer": true,
+    "doesPauseGame": false,
+    "components": [
+      {
+        "type": "inputslot",
+        "data": {
+          "inputLimit": {
+            "value": "Items.EMERALD"
+          },
+          "id": 3,
+          "disableStackInteraction": false,
+          "dropItemsWhenNotBound": true,
+          "name": "Slot #3",
+          "x": 246,
+          "y": 114
+        }
+      },
+      {
+        "type": "outputslot",
+        "data": {
+          "id": 4,
+          "disableStackInteraction": false,
+          "dropItemsWhenNotBound": true,
+          "name": "Slot #4",
+          "x": 408,
+          "y": 114
+        }
+      },
+      {
+        "type": "button",
+        "data": {
+          "text": "Make Trade",
+          "onClick": {
+            "name": "GolemTrade2ArtisiansPickaxe"
+          },
+          "width": 200,
+          "height": 40,
+          "name": "Make Trade",
+          "x": 246,
+          "y": 186
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "text": "15 Emeralds",
+          "color": {
+            "value": -1,
+            "falpha": 0.0
+          },
+          "name": "15 Emeralds",
+          "x": 282,
+          "y": 114
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "emerald.png",
+          "name": "emerald.png",
+          "x": 282,
+          "y": 132
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "text": "1 Artisian's Pickaxe",
+          "color": {
+            "value": -1,
+            "falpha": 0.0
+          },
+          "name": "1 Artisian's Pickaxe",
+          "x": 444,
+          "y": 114
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "text": "Shopkeeper",
+          "color": {
+            "value": -1,
+            "falpha": 0.0
+          },
+          "name": "Shopkeeper",
+          "x": 231,
+          "y": 69
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "text": "Price",
+          "color": {
+            "value": -1,
+            "falpha": 0.0
+          },
+          "name": "Price",
+          "x": 246,
+          "y": 150
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "text": "Output",
+          "color": {
+            "value": -1,
+            "falpha": 0.0
+          },
+          "name": "Output",
+          "x": 408,
+          "y": 150
+        }
+      },
+      {
+        "type": "button",
+        "data": {
+          "text": "Next",
+          "width": 80,
+          "height": 40,
+          "name": "Next",
+          "x": 654,
+          "y": 60
+        }
+      },
+      {
+        "type": "button",
+        "data": {
+          "text": "Back",
+          "onClick": {
+            "name": "GolemBack2"
+          },
+          "width": 80,
+          "height": 40,
+          "name": "Back",
+          "x": 114,
+          "y": 60
+        }
+      }
+    ]
+  }
+}
